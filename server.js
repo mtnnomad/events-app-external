@@ -1,4 +1,5 @@
 'use strict';
+//test
 
 console.log(`process.env.SERVER = ${process.env.SERVER}`);
 // get the environment variable, but default to localhost:8082 if its not set
